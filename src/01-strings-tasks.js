@@ -245,6 +245,7 @@ function isString(value) {
     return true;
   }
   return false;
+  //
 }
 
 
